@@ -31,13 +31,13 @@ html {
   display: none;
 }
 .navbar-menu{
-  display: none;
+  display: block;
 }
 @media (max-width: 600px) {
 .navbar-burger{
   display: block;
 }
 .navbar-menu{
-  display: block;
+  display: none;
 }
 }
